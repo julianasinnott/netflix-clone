@@ -18,16 +18,14 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 <tr>
   <th> HTML </th>
   <th> CSS </th>
-  <th> jQuery </th>
+  <th> jQuery</th>
 </tr>
 <tr>
-  <td> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </td>
-  <td> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </td>
-  <td>  <img align="center" alt="jQuery" height="32" width="33" src="https://user-images.githubusercontent.com/100887684/164149527-1dc9597a-dbea-4151-9fb8-b4b6f4e3e60a.png" </td>
+  <td><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+  <td><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+  <td><img align="center" alt="jQuery" height="32" width="33" src="https://user-images.githubusercontent.com/100887684/164298405-4e76480d-b68c-4912-84f7-602f73f06945.jpg"></td>
 </tr>
 </table>
-
-
 
 <h2> Layout: </h2>
 
@@ -40,5 +38,5 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 ![image](https://user-images.githubusercontent.com/100887684/164297527-a4f077e8-0009-4ee1-840a-28f1a3860034.png)
 
 
-Este foi meu terceiro projeto. ❤ <br>
-Dev. Front-end❕
+❤ <br>
+Front-end Developer❕
