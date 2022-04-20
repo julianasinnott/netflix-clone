@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color:black;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    background: linear-gradient(to bottom,rgba(0,0,0,.7) 10%,rgba(0,0,0,0));
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    font-size: 14px;
+    position: -webkit-sticky; /* Necessário para funcionar no Safari */
+    position: sticky;
+    top: 0;    
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color:rgb(234, 235, 236);
+    margin-right: 10px;
+}
+
+a:hover {
+    color:rgb(196, 196, 197);
+} 
+
+.netflixlogo {
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+#cover {
+    width: 100%;
+    height: 85%;
+    background-image: linear-gradient(to right, rgb(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)), url(./img/background.jpg);
+    background-size: cover;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    width: 100%;
+    height: 80%;
+    justify-content: center;
+}
+
+.featuremovie {
+    padding: 0px 40px;
+}
+
+.phrase {
+    max-width: 500px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+ 
+button {
+    padding: 8px 25px;
+    margin-right: 5px;
+    border-radius: 3.5px;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .2s ease all;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button1 {
+    background-color: aliceblue;
+}
+
+.button2 {
+    background-color: rgba(167, 165, 165, 0.5);
+    color: aliceblue;
+}
+
+.button1:hover {
+    background-color: rgb(179, 179, 180);
+}
+
+.button2:hover {
+    background-color: rgba(167, 165, 165, 0.2);
+}
+
+i {
+    margin-right: 9px;
+    font-size:25px;
+}
+
+.nav-icon {
+    font-size: 19px;
+}
+
+.carouselmovies {
+    padding-left: 40px;
+    margin-top: -40px;
+}
+
+.item {
+    padding-top: 5px;
+}
+
+.imgcarousel {
+    height: 100%;
+    width: 100%;
+    display: block;
+    transition: 0.1s ease;
+}
+
+.imgcarousel:hover {
+    transform: translateY(-3px);
+    cursor: pointer;
+}
+
