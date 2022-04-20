@@ -55,9 +55,12 @@
     }
 
     .nav {
-        font-size: 2.3vh;
+        font-size: 2vh;
     }
 
+    .a-inicio, .a-series, .a-filmes {
+        margin-right: 4px;
+    }
     .title {
         width: 80%;
     }
@@ -97,5 +100,9 @@
 
     .nav {
         font-size: 2vh;
+    }
+
+    i {
+        font-size: 3vh;
     }
 }
