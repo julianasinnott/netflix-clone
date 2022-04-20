@@ -37,7 +37,7 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 
 - Layout Mobile
 
-![image](https://user-images.githubusercontent.com/100887684/164150721-8cc82ada-765f-4ffe-b82d-746a9d68cf59.png)
+![image](https://user-images.githubusercontent.com/100887684/164297527-a4f077e8-0009-4ee1-840a-28f1a3860034.png)
 
 
 Este foi meu terceiro projeto. ❤ <br>
