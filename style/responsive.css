@@ -50,11 +50,18 @@
         margin-top: 5px;
     }
 
+    .netflixlogo {
+        margin-bottom: 3px;
+    }
+
+    .nav {
+        font-size: 2.3vh;
+    }
+
     .title {
         width: 70%;
     }
-    
-    
+        
     .buttons {
         display: flex;   
     }
@@ -79,13 +86,17 @@
         font-size: 2.3vh;
     }
 
+    .left {
+        margin-bottom: 20px;
+    }
+
     .netflixlogo {
-        width: 10vh;
+        width: 15vh;
         margin-bottom: 3px;
     }
 
     .nav {
-        font-size: 1.5vh;
+        font-size: 2vh;
     }
 
 }
