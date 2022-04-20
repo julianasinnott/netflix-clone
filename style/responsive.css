@@ -1,0 +1,64 @@
+@media screen and (max-width:750px) {
+    .left {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .netflixlogo {
+        margin-bottom: 10px;
+    }
+
+    .nav2 {
+        display: flex;
+        
+    }
+
+    #header {
+        padding: 20px;
+    }
+
+    .featuremovie {
+        padding: 20px;
+    }
+    
+    .carouselmovies {
+        padding: 20px;
+    }
+
+}
+
+@media screen and (max-width:530px) {
+   
+    .title {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width:425px) {
+    #cover {
+       max-height: 70%;
+        
+    }
+
+    header {
+        margin-top: 5px;
+    }
+    .buttons {
+        display: flex;
+        
+    
+    }
+    .button1, .button2 {
+        font-size: 100%;
+    }
+
+    .button2 {
+        margin-right: 0;
+    }
+
+    .featuremovie {
+        margin-top: -60px;
+    }
+
+}
