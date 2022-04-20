@@ -59,7 +59,7 @@
     }
 
     .title {
-        width: 70%;
+        width: 80%;
     }
         
     .buttons {
@@ -87,16 +87,15 @@
     }
 
     .left {
-        margin-bottom: 20px;
+        margin-bottom: 5px;
     }
 
     .netflixlogo {
-        width: 15vh;
+        width: 11vh;
         margin-bottom: 3px;
     }
 
     .nav {
         font-size: 2vh;
     }
-
 }
