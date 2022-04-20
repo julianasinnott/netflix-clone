@@ -102,6 +102,10 @@
         font-size: 2vh;
     }
 
+    .button1, .button2 {
+        padding: 3.5px 8px;
+    }
+
     i {
         font-size: 3vh;
     }
