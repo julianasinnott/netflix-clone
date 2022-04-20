@@ -32,7 +32,6 @@
     .carouselmovies {
         padding: 20px;
     }
-
 }
 
 @media screen and (max-width:530px) {
@@ -40,7 +39,6 @@
     .title {
         width: 100%;
     }
-
 }
 
 @media screen and (max-width:425px) {
@@ -51,12 +49,22 @@
     header {
         margin-top: 5px;
     }
+
+    .title {
+        width: 70%;
+    }
+    
+    .phrase {
+        font-size: 3vh;
+    }
+
     .buttons {
         display: flex;   
     }
     
     .button1, .button2 {
-        font-size: 100%;
+        font-size: 1.8vh;
+        padding: 3.5px 15px;
     }
 
     .button2 {
@@ -64,7 +72,6 @@
     }
 
     .featuremovie {
-        margin-top: -60px;
+        margin-top: -60px;    
     }
-
 }
