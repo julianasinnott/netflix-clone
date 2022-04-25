@@ -23,7 +23,7 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 <tr>
   <td><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
   <td><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-  <td><img align="center" alt="jQuery" height="33" width="40" src="https://user-images.githubusercontent.com/100887684/165156011-19f56936-88f0-45a7-91be-38dcee184530.png"></td>
+  <td><img align="center" alt="jQuery" height="33" width="38" src="https://user-images.githubusercontent.com/100887684/165156011-19f56936-88f0-45a7-91be-38dcee184530.png"></td>
 </tr>
 </table>
 
