@@ -24,7 +24,7 @@ header {
     align-items: center;
     padding: 15px 40px;
     font-size: 14px;
-    position: -webkit-sticky; /* Necessário para funcionar no Safari */
+    position: -webkit-sticky; 
     position: sticky;
     top: 0;    
 }
