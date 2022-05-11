@@ -38,5 +38,4 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 ![image](https://user-images.githubusercontent.com/100887684/164297527-a4f077e8-0009-4ee1-840a-28f1a3860034.png)
 
 
-❤ <br>
-Front-end Developer❕
+❤ 
