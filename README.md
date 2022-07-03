@@ -1,6 +1,18 @@
-# Netflix Clone 🎬
+<h1 align="center"> Netflix Clone 🎬 </h1>
 
-<h2> Descrição: </h2>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianasinnott/netflix-clone.svg?color=E50914">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianasinnott/netflix-clone.svg?color=E50914">
+  
+  <a href="https://github.com/julianasinnott/netflix-clone/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/julianasinnott/netflix-clone.svg?color=E50914">
+  </a>
+</p>
+
+![netflix](https://user-images.githubusercontent.com/100887684/177057030-a857a0fa-1527-4d02-a322-60399fb7eea9.PNG)
+
+## | Descrição |
 
 Projeto desenvolvido durante o Carrefour Bootcamp Web developer em parceria com a Digital Innovation One, em abril de 2022.
 
@@ -10,9 +22,11 @@ A proposta do projeto era criar uma replica da página inicial do Netflix com as
 - Estilização com CSS puro e jQuery, design desktop e mobile responsivo
 - Funcionalidades do carrossel com jQuery
 
-Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/netflix-clone/). Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+## | Deploy do projeto |
 
-<h2> Linguagens utilizadas: </h2>
+🔗 https://julianasinnott.github.io/netflix-clone/ 🔗
+
+## | Linguagens utilizadas |
 
 <table>
 <tr>
@@ -27,15 +41,30 @@ Acesse a página do projeto clicando [aqui](https://julianasinnott.github.io/net
 </tr>
 </table>
 
-<h2> Layout: </h2>
+## | Como rodar |
 
-- Layout Desktop
+Para clonar e rodar esse projeto você precisa ter instalado o [Git](https://git-scm.com/). 
 
-<img align="center" alt="Desktop" src="https://user-images.githubusercontent.com/100887684/164150438-1c9c8574-6238-4a04-96f1-78eccc3daf73.png">
+<hr>
 
-- Layout Mobile
+No terminal:
 
-![image](https://user-images.githubusercontent.com/100887684/164297527-a4f077e8-0009-4ee1-840a-28f1a3860034.png)
+#### Clonando o repositório
+$ `git clone https://github.com/julianasinnott/netflix-clone.git`
+
+#### Entrando no repositório
+$ `cd netflix-clone`
+
+<hr>
+
+#### - Para visualizar o projeto, abra o arquivo .html em seu navegador -
+
+## | Deploy |
+
+[GitHub Pages](https://pages.github.com/)
 
 
-❤ 
+
+
+
+
